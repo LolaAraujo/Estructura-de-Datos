@@ -1,0 +1,127 @@
+# depslib dependency file v1.0
+1683423255 source:c:\users\cerva\escritorio\f.prog\estructura de datos\proyectofinal_camd\main.cpp
+	"menu.hpp"
+
+1683423416 c:\users\cerva\escritorio\f.prog\estructura de datos\proyectofinal_camd\menu.hpp
+	<string>
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	"recipes.hpp"
+	"ingredientes.hpp"
+	"recipesList.hpp"
+	"ingredientList.hpp"
+
+1680031718 c:\users\cerva\escritorio\f.prog\estructura de datos\proyectofinal_camd\ingrediente_menu.hpp
+	"Lista.hpp"
+	"ingredientes.hpp"
+	"Recetas.hpp"
+	<iostream>
+
+1680031524 c:\users\cerva\escritorio\f.prog\estructura de datos\proyectofinal_camd\recetas_menu.hpp
+	<iostream>
+	"Lista.hpp"
+	"Recetas.hpp"
+	<windows.h>
+
+1679381671 source:c:\users\cerva\escritorio\f.prog\estructura de datos\proyectofinal_camd\recetas_menu.cpp
+	"Recetas_Menu.hpp"
+
+1680031725 source:c:\users\cerva\escritorio\f.prog\estructura de datos\proyectofinal_camd\ingredientes_menu.cpp
+	"Ingrediente_Menu.hpp"
+
+1679722774 c:\users\cerva\escritorio\f.prog\estructura de datos\proyectofinal_camd\list_ingredientes.hpp
+	<string>
+	<iostream>
+	"LolException.hpp"
+
+1683488486 source:c:\users\cerva\escritorio\f.prog\estructura de datos\proyectofinal_camd\menu.cpp
+	"menu.hpp"
+
+1680428443 c:\users\cerva\escritorio\f.prog\estructura de datos\proyectofinal_camd\lolexception.hpp
+	<exception>
+	<iostream>
+
+1683485847 c:\users\cerva\escritorio\f.prog\estructura de datos\proyectofinal_camd\ingredientes.hpp
+	<string>
+	<iostream>
+
+1680066643 c:\users\cerva\escritorio\f.prog\estructura de datos\proyectofinal_camd\lista.hpp
+	<string>
+	<iostream>
+	"LolException.hpp"
+	<fstream>
+
+1683485847 source:c:\users\cerva\escritorio\f.prog\estructura de datos\proyectofinal_camd\ingredientes.cpp
+	"ingredientes.hpp"
+
+1683483588 source:c:\users\cerva\escritorio\f.prog\estructura de datos\proyectofinal_camd\author_name.cpp
+	"author_name.hpp"
+
+1679985455 c:\users\cerva\escritorio\f.prog\estructura de datos\proyectofinal_camd\nameautor.hpp
+	<iostream>
+	<string>
+	<iomanip>
+
+1683490979 source:c:\users\cerva\escritorio\f.prog\estructura de datos\proyectofinal_camd\recipes.cpp
+	"recipes.hpp"
+
+1680064211 c:\users\cerva\escritorio\f.prog\estructura de datos\proyectofinal_camd\recetas.hpp
+	<iostream>
+	<string>
+	<iomanip>
+	"NameAutor.hpp"
+	"ingredientes.hpp"
+
+1683486718 c:\users\cerva\escritorio\f.prog\estructura de datos\proyectofinal_camd\recipes.hpp
+	<iostream>
+	<string>
+	<iomanip>
+	"author_name.hpp"
+	"ingredientes.hpp"
+	"ingredientList.hpp"
+
+1681624189 c:\users\cerva\escritorio\f.prog\estructura de datos\proyectofinal_camd\list.hpp
+	<string>
+	<iostream>
+	"LolException.hpp"
+	<fstream>
+
+1680428521 c:\users\cerva\escritorio\f.prog\estructura de datos\proyectofinal_camd\author_name.hpp
+	<iostream>
+	<string>
+	<iomanip>
+
+1680266810 c:\users\cerva\escritorio\f.prog\estructura de datos\proyectofinal_camd\listrecipes.hpp
+	<string>
+	<iostream>
+	"LolException.hpp"
+	<fstream>
+
+1680287895 c:\users\cerva\escritorio\f.prog\estructura de datos\proyectofinal_camd\llistingredients.hpp
+	<string>
+	<iostream>
+	"LolException.hpp"
+	<fstream>
+
+1680269433 source:c:\users\cerva\escritorio\f.prog\estructura de datos\proyectofinal_camd\listingredient.cpp
+
+1680269442 source:c:\users\cerva\escritorio\f.prog\estructura de datos\proyectofinal_camd\listrecipe.cpp
+
+1683487093 c:\users\cerva\escritorio\f.prog\estructura de datos\proyectofinal_camd\ingredientlist.hpp
+	<string>
+	<iostream>
+	<fstream>
+
+1683483393 c:\users\cerva\escritorio\f.prog\estructura de datos\proyectofinal_camd\recipeslist.hpp
+	<string>
+	<iostream>
+	<exception>
+	<fstream>
+
+1683075157 c:\users\cerva\escritorio\f.prog\estructura de datos\proyectofinal_camd\ingredientslist.hpp
+	<string>
+	<iostream>
+	"LolException.hpp"
+	<fstream>
+
