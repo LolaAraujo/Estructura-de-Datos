@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1676223884 source:c:\users\cerva\escritorio\f.prog\poo c++\actividad4\cola.cpp
+	"Cola.hpp"
+
+1676252491 source:c:\users\cerva\escritorio\f.prog\poo c++\actividad4\main.cpp
+	<iostream>
+	"ReceiveCola.hpp"
+
+1676230556 source:c:\users\cerva\escritorio\f.prog\poo c++\actividad4\receivecola.cpp
+	"ReceiveCola.hpp"
+
+1676223214 source:c:\users\cerva\escritorio\f.prog\poo c++\actividad4\pila.cpp
+	"Pila.hpp"
+
+1676251133 c:\users\cerva\escritorio\f.prog\poo c++\actividad4\pila.hpp
+	<iostream>
+
+1676251133 c:\users\cerva\escritorio\f.prog\poo c++\actividad4\cola.hpp
+	<iostream>
+
+1676252584 c:\users\cerva\escritorio\f.prog\poo c++\actividad4\receivecola.hpp
+	"Pila.hpp"
+	"Cola.hpp"
+	<iostream>
+	<string>
+	<cstring>
+

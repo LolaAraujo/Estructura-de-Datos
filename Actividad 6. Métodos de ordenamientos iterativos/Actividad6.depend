@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1679798247 source:c:\users\cerva\escritorio\f.prog\estructura de datos\actividad6\cancion.cpp
+	"Cancion.hpp"
+
+1679798423 c:\users\cerva\escritorio\f.prog\estructura de datos\actividad6\cancion.hpp
+	<string>
+	<iomanip>
+
+1677160837 source:c:\users\cerva\escritorio\f.prog\estructura de datos\actividad6\main.cpp
+	<iostream>
+	"mainMenu.hpp"
+
+1677875466 c:\users\cerva\escritorio\f.prog\estructura de datos\actividad6\mainmenu.hpp
+	<iomanip>
+	<iostream>
+	"Lista.hpp"
+	"Cancion.hpp"
+	<windows.h>
+
+1679797629 c:\users\cerva\escritorio\f.prog\estructura de datos\actividad6\lista.hpp
+	<string>
+	<iostream>
+	<exception>
+	"Cancion.hpp"
+
+1677905058 source:c:\users\cerva\escritorio\f.prog\estructura de datos\actividad6\lista.cpp
+	"Lista.hpp"
+
+1677905358 source:c:\users\cerva\escritorio\f.prog\estructura de datos\actividad6\mainmenu.cpp
+	"mainMenu.hpp"
+

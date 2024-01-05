@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1675472085 source:c:\users\cerva\escritorio\f.prog\poo c++\actividad2\date.cpp
+	"date.hpp"
+
+1675399234 c:\users\cerva\escritorio\f.prog\poo c++\actividad2\date.hpp
+	<string>
+
+1675460400 source:c:\users\cerva\escritorio\f.prog\poo c++\actividad2\main.cpp
+	<iostream>
+	"mainMenu.hpp"
+
+1675472101 c:\users\cerva\escritorio\f.prog\poo c++\actividad2\mainmenu.hpp
+	"inventario.hpp"
+	<iostream>
+
+1675472096 source:c:\users\cerva\escritorio\f.prog\poo c++\actividad2\mainmenu.cpp
+	"mainMenu.hpp"
+
+1675919529 source:c:\users\cerva\escritorio\f.prog\poo c++\actividad2\product.cpp
+	<iostream>
+	"product.hpp"
+
+1675472059 source:c:\users\cerva\escritorio\f.prog\poo c++\actividad2\inventario.cpp
+	"inventario.hpp"
+
+1675472046 c:\users\cerva\escritorio\f.prog\poo c++\actividad2\inventario.hpp
+	<iostream>
+	<string>
+	"product.hpp"
+
+1675472065 c:\users\cerva\escritorio\f.prog\poo c++\actividad2\product.hpp
+	<string>
+	<iomanip>
+	"date.hpp"
+
+1675281197 source:c:\users\cerva\escritorio\f.prog\poo c++\actividad2\menu.cpp
+

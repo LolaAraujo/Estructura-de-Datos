@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1678493706 source:c:\users\cerva\escritorio\f.prog\estructura de datos\actividad7\main.cpp
+	"Menu.hpp"
+
+1678492910 c:\users\cerva\escritorio\f.prog\estructura de datos\actividad7\menu.hpp
+	<string>
+	<random>
+	<chrono>
+	<iostream>
+	<windows.h>
+	<functional>
+	"Lista.hpp"
+	"Integer.hpp"
+
+1678493636 c:\users\cerva\escritorio\f.prog\estructura de datos\actividad7\lista.hpp
+	<iostream>
+	<string>
+
+1678492906 source:c:\users\cerva\escritorio\f.prog\estructura de datos\actividad7\menu.cpp
+	"Menu.hpp"
+
+1678493684 source:c:\users\cerva\escritorio\f.prog\estructura de datos\actividad7\integer.cpp
+	"Integer.hpp"
+
+1678418841 c:\users\cerva\escritorio\f.prog\estructura de datos\actividad7\integer.hpp
+	<iostream>
+
