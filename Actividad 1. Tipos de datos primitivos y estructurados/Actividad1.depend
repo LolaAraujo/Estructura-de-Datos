@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1674805119 source:c:\users\cerva\escritorio\f.prog\poo c++\actividad1\main.cpp
+	<iostream>
+	"actividad1.h"
+
+1674804603 source:c:\users\cerva\escritorio\f.prog\poo c++\actividad1\actividad1.cpp
+	"actividad1.h"
+
+1674803908 c:\users\cerva\escritorio\f.prog\poo c++\actividad1\actividad1.h
+	<limits>
+	<iostream>
+	<random>
+	<chrono>
+
+1674743831 source:c:\users\cerva\escritorio\f.prog\poo c++\actividad1\prueba.c
+
+1674745360 source:c:\users\cerva\escritorio\f.prog\poo c++\actividad1\untitled2.cpp
+	<iostream>
+	<random>
+
