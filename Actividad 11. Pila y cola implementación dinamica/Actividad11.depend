@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1681740928 source:c:\users\cerva\escritorio\f.prog\estructura de datos\actividad11\main.cpp
+	<iostream>
+	"Menu.hpp"
+
+1676569633 c:\users\cerva\escritorio\f.prog\estructura de datos\actividad11\menu.hpp
+	"QueuePosfijo.hpp"
+	"Queue.hpp"
+	"Stack.hpp"
+	<iostream>
+	<string.h>
+
+1681740978 c:\users\cerva\escritorio\f.prog\estructura de datos\actividad11\queueposfijo.hpp
+	<iostream>
+	"LolException.hpp"
+
+1681738923 c:\users\cerva\escritorio\f.prog\estructura de datos\actividad11\lolexception.hpp
+	<exception>
+	<iostream>
+
+1681740960 c:\users\cerva\escritorio\f.prog\estructura de datos\actividad11\queue.hpp
+	<iostream>
+	"LolException.hpp"
+
+1681740993 c:\users\cerva\escritorio\f.prog\estructura de datos\actividad11\stack.hpp
+	<iostream>
+	"LolException.hpp"
+
+1676570835 source:c:\users\cerva\escritorio\f.prog\estructura de datos\actividad11\menu.cpp
+	"Menu.hpp"
+

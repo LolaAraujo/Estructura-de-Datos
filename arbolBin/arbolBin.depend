@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1682393818 source:c:\users\cerva\escritorio\f.prog\estructura de datos\arbolbin\main.cpp
+	"menu.hpp"
+
+1682448260 source:c:\users\cerva\escritorio\f.prog\estructura de datos\arbolbin\menu.cpp
+	"menu.hpp"
+
+1682395315 c:\users\cerva\escritorio\f.prog\estructura de datos\arbolbin\menu.hpp
+	<string>
+	<random>
+	<chrono>
+	<iostream>
+	<windows.h>
+	<functional>
+	"arbolBinario.hpp"
+
+1682402983 c:\users\cerva\escritorio\f.prog\estructura de datos\arbolbin\arbolbinario.hpp
+	<iostream>
+	<string>
+	<exception>
+

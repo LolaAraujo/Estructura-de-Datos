@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1682663396 source:c:\users\cerva\escritorio\f.prog\estructura de datos\arbolavl\menu.cpp
+	"menu.hpp"
+
+1682647422 c:\users\cerva\escritorio\f.prog\estructura de datos\arbolavl\menu.hpp
+	<string>
+	<random>
+	<chrono>
+	<iostream>
+	<windows.h>
+	<functional>
+	"arbolAVL.hpp"
+
+1682664129 c:\users\cerva\escritorio\f.prog\estructura de datos\arbolavl\arbolavl.hpp
+	<iostream>
+	<string>
+	<exception>
+
+1682647497 source:c:\users\cerva\escritorio\f.prog\estructura de datos\arbolavl\main.cpp
+	"menu.hpp"
+

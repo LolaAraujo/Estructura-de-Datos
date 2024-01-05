@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1676569566 source:c:\users\cerva\escritorio\f.prog\poo c++\actividad4_v2\main.cpp
+	<iostream>
+	"Menu.hpp"
+
+1676569633 c:\users\cerva\escritorio\f.prog\poo c++\actividad4_v2\menu.hpp
+	"QueuePosfijo.hpp"
+	"Queue.hpp"
+	"Stack.hpp"
+	<iostream>
+	<string.h>
+
+1676566251 c:\users\cerva\escritorio\f.prog\poo c++\actividad4_v2\queueposfijo.hpp
+	<iostream>
+	"LolException.hpp"
+
+1676566528 c:\users\cerva\escritorio\f.prog\poo c++\actividad4_v2\lolexception.hpp
+	<exception>
+	<iostream>
+
+1676566568 c:\users\cerva\escritorio\f.prog\poo c++\actividad4_v2\queue.hpp
+	<iostream>
+	"LolException.hpp"
+
+1676566267 c:\users\cerva\escritorio\f.prog\poo c++\actividad4_v2\stack.hpp
+	<iostream>
+	"LolException.hpp"
+
+1676570835 source:c:\users\cerva\escritorio\f.prog\poo c++\actividad4_v2\menu.cpp
+	"Menu.hpp"
+
+1676569566 source:c:\users\cerva\escritorio\f.prog\estructura de datos\actividad4_v2\main.cpp
+	<iostream>
+	"Menu.hpp"
+
+1676569633 c:\users\cerva\escritorio\f.prog\estructura de datos\actividad4_v2\menu.hpp
+	"QueuePosfijo.hpp"
+	"Queue.hpp"
+	"Stack.hpp"
+	<iostream>
+	<string.h>
+
+1676566251 c:\users\cerva\escritorio\f.prog\estructura de datos\actividad4_v2\queueposfijo.hpp
+	<iostream>
+	"LolException.hpp"
+
+1676566528 c:\users\cerva\escritorio\f.prog\estructura de datos\actividad4_v2\lolexception.hpp
+	<exception>
+	<iostream>
+
+1676566568 c:\users\cerva\escritorio\f.prog\estructura de datos\actividad4_v2\queue.hpp
+	<iostream>
+	"LolException.hpp"
+
+1676566267 c:\users\cerva\escritorio\f.prog\estructura de datos\actividad4_v2\stack.hpp
+	<iostream>
+	"LolException.hpp"
+
+1676570835 source:c:\users\cerva\escritorio\f.prog\estructura de datos\actividad4_v2\menu.cpp
+	"Menu.hpp"
+

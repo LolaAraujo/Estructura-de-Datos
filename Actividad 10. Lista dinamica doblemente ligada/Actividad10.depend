@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1679776025 source:c:\users\cerva\escritorio\f.prog\estructura de datos\actividad10\main.cpp
+	"Menu.hpp"
+
+1679924318 source:c:\users\cerva\escritorio\f.prog\estructura de datos\actividad10\cancion.cpp
+	"Cancion.hpp"
+
+1679805882 c:\users\cerva\escritorio\f.prog\estructura de datos\actividad10\cancion.hpp
+	<iostream>
+	<string>
+
+1679947895 c:\users\cerva\escritorio\f.prog\estructura de datos\actividad10\menu.hpp
+	<iostream>
+	"ListDummy.hpp"
+	"Cancion.hpp"
+	<windows.h>
+
+1679783085 c:\users\cerva\escritorio\f.prog\estructura de datos\actividad10\listdoblelineal.hpp
+	<string>
+	<iostream>
+	<exception>
+	<fstream>
+
+1679948001 source:c:\users\cerva\escritorio\f.prog\estructura de datos\actividad10\menu.cpp
+	"Menu.hpp"
+
+1679948183 c:\users\cerva\escritorio\f.prog\estructura de datos\actividad10\listdummy.hpp
+	<string>
+	<iostream>
+	<exception>
+	<fstream>
+
