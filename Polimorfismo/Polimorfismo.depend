@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1667661769 source:c:\users\cerva\escritorio\f.prog\poo c++\polimorfismo\alumnos.cpp
+	"alumnos.h"
+
+1667670357 c:\users\cerva\escritorio\f.prog\poo c++\polimorfismo\alumnos.h
+	<iostream>
+
+1667662420 source:c:\users\cerva\escritorio\f.prog\poo c++\polimorfismo\alumnos_prepa.cpp
+	"alumnos_prepa.h"
+
+1667660172 c:\users\cerva\escritorio\f.prog\poo c++\polimorfismo\alumnos_prepa.h
+	<iostream>
+	"alumnos.h"
+
+1667625865 source:c:\users\cerva\escritorio\f.prog\poo c++\polimorfismo\alumnos_uni.cpp
+	"alumnos_uni.h"
+
+1667623451 c:\users\cerva\escritorio\f.prog\poo c++\polimorfismo\alumnos_uni.h
+	<iostream>
+	"alumnos.h"
+
+1667661434 source:c:\users\cerva\escritorio\f.prog\poo c++\polimorfismo\main.cpp
+	<iostream>
+	"alumnos_uni.h"
+	"alumnos_prepa.h"
+	"alumnos_sec.h"
+	"alumnos.h"
+
+1667623825 c:\users\cerva\escritorio\f.prog\poo c++\polimorfismo\alumnos_sec.h
+	<iostream>
+	"alumnos.h"
+
+1667625865 source:c:\users\cerva\escritorio\f.prog\poo c++\polimorfismo\alumnos_sec.cpp
+	"alumnos_sec.h"
+

@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1667172158 source:c:\users\cerva\escritorio\f.prog\poo c++\herencia\plataformas.cpp
+
+1667186653 c:\users\cerva\escritorio\f.prog\poo c++\herencia\plataformas.h
+	<iostream>
+
+1667186865 source:c:\users\cerva\escritorio\f.prog\poo c++\herencia\contenidos.cpp
+	"contenidos.h"
+	"plataformas.h"
+
+1667186700 c:\users\cerva\escritorio\f.prog\poo c++\herencia\contenidos.h
+	"plataformas.h"
+	<iostream>
+
+1667187045 source:c:\users\cerva\escritorio\f.prog\poo c++\herencia\main.cpp
+	<iostream>
+	"personas.h"
+	"contenidos.h"
+
+1667186742 c:\users\cerva\escritorio\f.prog\poo c++\herencia\personas.h
+	<iostream>
+	"contenidos.h"
+	"plataformas.h"
+
+1667186283 source:c:\users\cerva\escritorio\f.prog\poo c++\herencia\personas.cpp
+	"personas.h"
+	"contenidos.h"
+	"plataformas.h"
+

@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1674658660 source:c:\users\cerva\escritorio\f.prog\poo c++\composicion\date.cpp
+	"date.hpp"
+
+1674657837 c:\users\cerva\escritorio\f.prog\poo c++\composicion\date.hpp
+
+1675088000 source:c:\users\cerva\escritorio\f.prog\poo c++\composicion\main.cpp
+	<iostream>
+	"student.hpp"
+	"name.hpp"
+	"date.hpp"
+
+1675088005 c:\users\cerva\escritorio\f.prog\poo c++\composicion\student.hpp
+	<string>
+	"date.hpp"
+	"name.hpp"
+
+1674657592 c:\users\cerva\escritorio\f.prog\poo c++\composicion\name.hpp
+	<string>
+
+1674657680 source:c:\users\cerva\escritorio\f.prog\poo c++\composicion\name.cpp
+	"name.hpp"
+

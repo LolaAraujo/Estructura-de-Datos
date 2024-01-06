@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1664571829 source:c:\users\usuario\desktop\friendclass\main.cpp
+	<iostream>
+	"Lista.h"
+
+1664570017 source:c:\users\usuario\desktop\friendclass\nodo.cpp
+	"Nodo.h"
+
+1664571064 c:\users\usuario\desktop\friendclass\nodo.h
+
+1664571780 source:c:\users\usuario\desktop\friendclass\lista.cpp
+	"Lista.h"
+
+1664571603 c:\users\usuario\desktop\friendclass\lista.h
+	<iostream>
+	"Nodo.h"
+

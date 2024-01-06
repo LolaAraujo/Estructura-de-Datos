@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1667699428 source:c:\users\cerva\escritorio\f.prog\poo c++\polimorfismo_camd\hombre.cpp
+	"hombre.h"
+
+1667698811 c:\users\cerva\escritorio\f.prog\poo c++\polimorfismo_camd\hombre.h
+	"persona.h"
+	<iostream>
+
+1667698664 c:\users\cerva\escritorio\f.prog\poo c++\polimorfismo_camd\persona.h
+	<iostream>
+
+1667698811 source:c:\users\cerva\escritorio\f.prog\poo c++\polimorfismo_camd\mujer.cpp
+	"mujer.h"
+
+1667698811 c:\users\cerva\escritorio\f.prog\poo c++\polimorfismo_camd\mujer.h
+	"persona.h"
+	<iostream>
+
+1667699439 source:c:\users\cerva\escritorio\f.prog\poo c++\polimorfismo_camd\persona.cpp
+	"persona.h"
+
+1667699481 source:c:\users\cerva\escritorio\f.prog\poo c++\polimorfismo_camd\main.cpp
+	<iostream>
+	"hombre.h"
+	"mujer.h"
+	"ninos.h"
+
+1667698718 c:\users\cerva\escritorio\f.prog\poo c++\polimorfismo_camd\ninos.h
+	"persona.h"
+	<iostream>
+
+1667698716 source:c:\users\cerva\escritorio\f.prog\poo c++\polimorfismo_camd\ninos.cpp
+	"ninos.h"
+

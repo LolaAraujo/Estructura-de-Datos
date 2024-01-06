@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1665175525 source:c:\users\usuario\desktop\reto sobrecarga de operadores\main.cpp
+	<iostream>
+	"Binario.h"
+
+1665169329 source:c:\users\usuario\desktop\reto sobrecarga de operadores\reto.cpp
+	"reto.h"
+
+1665169877 c:\users\usuario\desktop\reto sobrecarga de operadores\reto.h
+	<iostream>
+
+1665175741 c:\users\usuario\desktop\reto sobrecarga de operadores\binario.h
+	<iostream>
+
+1665175349 source:c:\users\usuario\desktop\reto sobrecarga de operadores\binario.cpp
+	"Binario.h"
+
+1665715532 source:c:\users\cerva\escritorio\f.prog\poo c++\reto sobrecarga de operadores\binario.cpp
+	"Binario.h"
+
+1665716421 c:\users\cerva\escritorio\f.prog\poo c++\reto sobrecarga de operadores\binario.h
+	<iostream>
+
+1665714449 source:c:\users\cerva\escritorio\f.prog\poo c++\reto sobrecarga de operadores\main.cpp
+	<iostream>
+	"Binario.h"
+

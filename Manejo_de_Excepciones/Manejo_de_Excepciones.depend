@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1668804062 source:c:\users\usuario\desktop\manejo_de_excepciones\main.cpp
+	<iostream>
+	<ctype.h>
+	<string.h>
+
+1669075084 source:d:\downloads\manejo_de_excepciones\main.cpp
+	<iostream>
+
